@@ -1,226 +1,226 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model u
+  - Modeling u
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Algorithm u
+  - Syntax u
+  - Semantics u
+  - Abstraction u
   - Paradigm
-  - Programm
+  - Programm u
   - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
+  - Programming language k
+  - Contract u
+  - Module u
+  - Library u
+  - Package u
+  - Component u
+  - Framework h
+  - Platform u
+  - Source code u
   - Object code
-  - Machine code
+  - Machine code u
   - Microcode
   - Software engineering
-  - Decomposition
+  - Decomposition u
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse u
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) u
+  - KISS principle u
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
+  - Heap u
+  - Function u
+  - Procedure u
+  - Method u
+  - Class u
+  - Prototype u
+  - Event u
+  - Type u
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops u
   - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Regular expression u
+  - Interface u
+  - Namespaces u
+  - Call stack u
+  - Naming conventions u
+  - Coding conventions u
+  - Camel case u
+  - Snake case u
+  - Kebab case h
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Primitive types u
+  - Reference types u
+  - Type systems u 
+  - Strong typingu
+  - Weak typing u
+  - Duck typing u
+  - Static typing u 
+  - Dynamic typing u
   - Nominal typing
-  - Structural typing
+  - Structural typing u
   - Explicit typing
   - Type inference
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function u
+  - Lambda expression u
   - Side effects
-  - Closure
+  - Closure u
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion u
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
+  - Callback u
+  - Listener u
+  - Composition u
+  - Pipe u
+  - Memoize u 
+  - Wrapper u 
+  - Functor 
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Array u
+  - Structure u
+  - Record u
+  - Enum u
+  - Instance u
+  - Object u
+  - Collection u
+  - Set u 
+  - Hash table u
+  - Linked list h
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
+  - Queue k
+  - Stack k
+  - Deque k
+  - Tree h
+  - Graph h
   - Iterator
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON u
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS k
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 k
+  - IPv6 k
   - NAT
-  - URL
+  - URL u
   - URN
   - URI
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
+  - Compiler u
+  - Just-in-time compilation u
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter u
   - Polyfill
-  - Interpreter
+  - Interpreter u
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime u
+  - Virtual machine u
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
+  - Garbage collection u
+  - Refactoring u
+  - Code review u
+  - Exception u
   - Unittesting
-  - git
-  - Github
-  - Docker
+  - git u
+  - Github u
+  - Docker k
   - Kubernetes
-  - GCC
+  - GCC u
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers  k
+  - Hard code  k
+  - Soft code k
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti k
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
+  - Dead code k
+  - Unreachable code k
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Nested loops k
+  - Long method/function/procedure k
+  - Long inheritance k
+  - Large class/file k
+  - Too many parameters k
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case k
   - Temporary field
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
-  - Data clump
+  - Use fields instead of arguments k
+  - Data clump k
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode k
+  - V8 u
   - VJM
-  - CLR
+  - CLR u
   - Mono
 - Operating systems
-  - Interrupts
+  - Interrupts u
   - Drivers
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux u
+  - Unix k
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - MacOS h
+  - Windows u
+  - Real-time OS h
+  - Embedded OS h
 - Standards
   - ASCII
   - Escape sequence
@@ -229,11 +229,11 @@
   - IANA
   - IEEE
   - Base64
-  - ECMA
+  - ECMA u
   - ICANN
-  - ISO
+  - ISO u
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 u
   - W3C
   - ODMG
