@@ -2,8 +2,8 @@
 
 - Theory
   - Event loop
-  - `try..catch` u
-  - Non-blocking u
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🖐️ used
   - Async I/O
   - Thread pool
   - Pattern Reactor
@@ -25,14 +25,14 @@
   - Callbacks
   - Callback-last-error-first
   - Thenable
-  - Promise u
-  - Async/await u
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event u
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
@@ -47,7 +47,7 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter u
+  - EventEmitter: 🖐️ used
   - Observable/Observer
   - Readable
   - Writable
